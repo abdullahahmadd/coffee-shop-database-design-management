@@ -92,7 +92,7 @@ The objective of this project is to design and implement a **centralized relatio
 
 The following results highlight the key stages of the database design and implementation process, including schema modeling, normalization, and data integration across PostgreSQL and MySQL.
 
-## 🐘 PostgreSQL Results
+## 🐘 PostgreSQL
 
 | 1. Initial ERD |
 |-------------|
@@ -127,7 +127,7 @@ The following results highlight the key stages of the database design and implem
 
 ---
 
-## 🐬 MySQL Results
+## 🐬 MySQL
 
 | 1. Staff Locations |
 |-----------------------|
