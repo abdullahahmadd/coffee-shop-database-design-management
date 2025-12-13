@@ -151,6 +151,7 @@ The following results highlight the key stages of the database design and implem
 
 ## ℹ️ About This Project
 
-This project was developed as part of the **IBM Data Engineering Professional Specialization** and has been adapted and structured as a **general portfolio project** to demonstrate practical relational database design and implementation skills.
+- This project is part of the **IBM Data Engineering Professional Specialization**.
+- It has been adapted and structured as a **general portfolio project** to demonstrate practical relational database design and implementation skills.
 
 ---
