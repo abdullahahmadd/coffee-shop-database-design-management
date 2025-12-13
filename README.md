@@ -18,9 +18,7 @@
 6. [Views and Materialized Views](#views-and-materialized-views)
 7. [Data Integration](#data-integration)
 8. [Results](#results)
-   - [PostgreSQL Results](#postgresql-results)
-   - [MySQL Results](#mysql-results)
-9. [Author](#author)
+9. [About This Project](#about-this-project)
 
 ---
 
