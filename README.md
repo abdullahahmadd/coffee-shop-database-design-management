@@ -9,20 +9,18 @@
 
 ---
 
-## Table of Contents
-1. [Overview](#overview)
-2. [Database Technologies](#database-technologies)
-3. [Skills Demonstrated](#skills-demonstrated)
-4. [Project Flow (Start to End)](#project-flow-start-to-end)
-5. [Database Design](#database-design)
-6. [Views and Materialized Views](#views-and-materialized-views)
-7. [Data Integration](#data-integration)
-8. [Results](#results)
-9. [About This Project](#about-this-project)
+## 📑 Table of Contents
+1. [Overview](#-overview)
+2. [Business Problem & Objective](#-business-problem--objective)
+3. [Database Technologies](#-database-technologies)
+4. [Skills Demonstrated](#-skills-demonstrated)
+5. [Project Flow](#-project-flow)
+6. [Results](#-results)
+7. [About This Project](#-about-this-project)
 
 ---
 
-## Overview
+## ☕ Overview
 This project demonstrates the **design and implementation of a relational database system** for a coffee shop business.  
 It focuses on building a clean, normalized database schema and enabling data access through SQL views and materialized views, with data shared across **PostgreSQL** and **MySQL** environments.
 
@@ -30,14 +28,22 @@ The project reflects real-world database design practices, emphasizing data inte
 
 ---
 
-## Database Technologies
+## 💼 Business Problem & Objective
+
+A growing coffee shop business plans to expand operations and open multiple franchise locations. However, its data is currently scattered across different systems, including spreadsheets, point-of-sale outputs, supplier exports, and customer records. This fragmented setup makes it difficult to maintain data consistency, streamline operations, and support data-driven decision-making.
+
+The objective of this project is to design and implement a **centralized relational database system** that consolidates these disparate data sources into a structured, normalized schema. The solution enables efficient storage, reliable relationships between entities, and the ability to share curated datasets with external stakeholders such as payroll and marketing teams.
+
+---
+
+## 🛠️ Database Technologies
 - **PostgreSQL** — primary database for schema design, normalization, and data processing  
 - **MySQL** — secondary database for external data consumption  
 - **SQL** — used for DDL, constraints, views, and materialized views  
 
 ---
 
-## Skills Demonstrated
+## 🎯 Skills Demonstrated
 - Relational database design
 - Data normalization (up to 2NF)
 - Primary key and foreign key implementation
@@ -48,7 +54,7 @@ The project reflects real-world database design practices, emphasizing data inte
 
 ---
 
-## Project Flow
+## 🔄 Project Flow
 
 1. **Requirement Analysis**
 - Reviewed operational data sources including staff, sales outlets, customers, products, and sales transactions.  
@@ -82,11 +88,11 @@ The project reflects real-world database design practices, emphasizing data inte
 
 ---
 
-## Results
+## 📊 Results
 
 The following results highlight the key stages of the database design and implementation process, including schema modeling, normalization, and data integration across PostgreSQL and MySQL.
 
-### PostgreSQL Results
+## 🐘 PostgreSQL Results
 
 | 1. Initial ERD |
 |-------------|
@@ -121,7 +127,7 @@ The following results highlight the key stages of the database design and implem
 
 ---
 
-### MySQL Results
+## 🐬 MySQL Results
 
 | 1. Staff Locations |
 |-----------------------|
@@ -130,13 +136,12 @@ The following results highlight the key stages of the database design and implem
 
 | 2. Product Information |
 |---------------------------|
-| ![MySQL Product Info](Results/coffee_shop_products_table.png) |
+| ![MySQL Product Info](Results/product_info.png) |
 | Product information imported into MySQL for marketing purposes. |
-
 
 ---
 
-## About This Project
+## ℹ️ About This Project
 
 This project was developed as part of the **IBM Data Engineering Professional Specialization** and has been adapted and structured as a **general portfolio project** to demonstrate practical relational database design and implementation skills.
 
