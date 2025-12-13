@@ -90,32 +90,32 @@ The following results highlight the key stages of the database design and implem
 
 | 1. Initial ERD |
 |-------------|
-| ![Initial ERD](Results/erd_initial_design.png) |
+| ![Initial ERD](Results/coffee_db_initial_ERD.png) |
 | Initial entity-relationship diagram representing the raw schema design. |
 
-| 2. Normalized ERD |
+| 2. Normalized Tables ERD |
 |----------------|
-| ![Normalized ERD](Results/erd_normalized_schema.png) |
-| Normalized ERD after restructuring tables and defining relationships. |
+| ![Normalized ERD](Results/normalize_tables_ERD.png) |
+| Normalized tables ERD after restructuring tables and defining relationships. |
 
 | 3. Coffee Shop Database Tables |
 |-------------------|
-| ![PostgreSQL Tables](Results/postgresql_tables_created.png) |
+| ![PostgreSQL Tables](Results/coffee_db_tables.png) |
 | Coffee shop database tables successfully created in PostgreSQL. |
 
 | 4. Sales Detail Data |
 |-------------------|
-| ![Sales Detail Data](Results/sales_detail_sample_data.png) |
+| ![Sales Detail Data](Results/sales_detail_first_100_rows.png) |
 | Sample transactional data from the sales_detail table. |
 
 | 5. Staff Locations View |
 |----------------------|
-| ![Staff Locations View](Results/postgresql_staff_locations_view.png) |
+| ![Staff Locations View](Results/staff_locations_view.png) |
 | SQL view displaying staff and work location data. |
 
 | 6. Product Info Materialized View |
 |--------------------------------|
-| ![Product Info Materialized View](Results/postgresql_product_info_materialized_view.png) |
+| ![Product Info Materialized View](Results/product_info_materialized_view.png) |
 | Materialized view combining product and product type information. |
 
 
@@ -125,12 +125,12 @@ The following results highlight the key stages of the database design and implem
 
 | 1. Staff Locations |
 |-----------------------|
-| ![MySQL Staff Locations](Results/mysql_staff_locations_table.png) |
+| ![MySQL Staff Locations](Results/staff_locations_table.png) |
 | Staff location data imported into MySQL for payroll use. |
 
 | 2. Product Information |
 |---------------------------|
-| ![MySQL Product Info](Results/mysql_coffee_shop_products_table.png) |
+| ![MySQL Product Info](Results/coffee_shop_products_table.png) |
 | Product information imported into MySQL for marketing purposes. |
 
 
