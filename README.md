@@ -37,9 +37,9 @@ The objective of this project is to design and implement a **centralized relatio
 ---
 
 ## 🛠️ Database Technologies
-- **PostgreSQL** — primary database for schema design, normalization, and data processing  
-- **MySQL** — secondary database for external data consumption  
-- **SQL** — used for DDL, constraints, views, and materialized views  
+- **SQL** — used for DDL, constraints, views, and materialized views
+- **PostgreSQL** — primary DBMS for schema design, normalization, and data processing  
+- **MySQL** — secondary DBMS for external data consumption    
 
 ---
 
