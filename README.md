@@ -94,30 +94,36 @@ The following results highlight the key stages of the database design and implem
 
 ## 🐘 PostgreSQL
 
+
 | 1. Initial ERD |
 |-------------|
 | ![Initial ERD](Results/coffee_db_initial_ERD.png) |
 | Initial entity-relationship diagram representing the raw schema design. |
+
 
 | 2. Normalized Tables ERD |
 |----------------|
 | ![Normalized ERD](Results/normalize_tables_ERD.png) |
 | Normalized tables ERD after restructuring tables and defining relationships. |
 
+
 | 3. Coffee Shop Database Tables |
 |-------------------|
 | ![PostgreSQL Tables](Results/coffee_db_tables.png) |
 | Coffee shop database tables successfully created in PostgreSQL. |
+
 
 | 4. Sales Detail Data |
 |-------------------|
 | ![Sales Detail Data](Results/sales_detail_first_100_rows.png) |
 | Sample transactional data from the sales_detail table. |
 
+
 | 5. Staff Locations View |
 |----------------------|
 | ![Staff Locations View](Results/staff_locations_view.png) |
 | SQL view displaying staff and work location data. |
+
 
 | 6. Product Info Materialized View |
 |--------------------------------|
@@ -129,10 +135,12 @@ The following results highlight the key stages of the database design and implem
 
 ## 🐬 MySQL
 
+
 | 1. Staff Locations |
 |-----------------------|
 | ![MySQL Staff Locations](Results/staff_locations_table.png) |
 | Staff location data imported into MySQL for payroll use. |
+
 
 | 2. Product Information |
 |---------------------------|
