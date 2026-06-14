@@ -1,4 +1,4 @@
-# 🛢️Coffee Shop Database Design
+# 🛢️Coffee Shop Database Design (PostgreSQL, MySQL)
 ### 🎓 IBM Data Engineering Specialization – Portfolio Project
 
 ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=abdullahahmadd.coffee-shop-db-design)
